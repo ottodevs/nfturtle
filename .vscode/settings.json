@@ -1,0 +1,7 @@
+// {
+//     "editor.codeActionsOnSave": {
+//         "source.formatDocument": false,
+//         "source.fixAll": false,
+//         "source.fixAll.eslint": true
+//     }
+// }
