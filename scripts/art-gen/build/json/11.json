@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #11",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "dna": "64ee6f117243a469172028fb61e7b76e4ad1e0dc",
+  "edition": 11,
+  "date": 1654961923330,
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "hawksbill"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "kámen_bubliny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "potapěčská maska + šnorchl"
+    },
+    {
+      "trait_type": "Item",
+      "value": "záchranný kruh"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

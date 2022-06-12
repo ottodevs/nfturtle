@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #12",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "dna": "08325942b04a6ae03a9bf6c688c27a7cdd454ce9",
+  "edition": 12,
+  "date": 1654961923858,
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "hawksbill"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "kámen_bubliny"
+    },
+    {
+      "trait_type": "Head",
+      "value": "piratská_čepice"
+    },
+    {
+      "trait_type": "Item",
+      "value": "záchranný kruh"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

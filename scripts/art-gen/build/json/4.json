@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #4",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "34593ebeef26248539bddd4147e526f52c5aea68",
+  "edition": 4,
+  "date": 1654961919572,
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "hawksbill"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "mořská_tráva"
+    },
+    {
+      "trait_type": "Head",
+      "value": "sailor"
+    },
+    {
+      "trait_type": "Item",
+      "value": "záchranný kruh"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

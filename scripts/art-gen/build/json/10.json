@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #10",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/10.png",
+  "dna": "b33dbf57c3e10eade61b4461c6f2adaaf4d34539",
+  "edition": 10,
+  "date": 1654961922801,
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "hawksbill"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "mořská_tráva"
+    },
+    {
+      "trait_type": "Head",
+      "value": "čepice modrá"
+    },
+    {
+      "trait_type": "Item",
+      "value": "záchranný kruh"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

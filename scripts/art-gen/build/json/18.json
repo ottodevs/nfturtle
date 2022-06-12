@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #18",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "dna": "11b04f22f46d2a2d7ca3cb1879a3d43a21614818",
+  "edition": 18,
+  "date": 1654961927029,
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "hawksbill"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "oranžový_koral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "kapitánská čapka"
+    },
+    {
+      "trait_type": "Item",
+      "value": "záchranný kruh"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

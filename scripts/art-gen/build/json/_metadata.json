@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "80e3b7ac02c81a1abd2442254959742d95e35265",
+    "edition": 1,
+    "date": 1654961917850,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "oranžový_koral"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sailor"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "487922389619a0a4a4c6356534170ac9fed45f37",
+    "edition": 2,
+    "date": 1654961918434,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "mořská_tráva"
+      },
+      {
+        "trait_type": "Head",
+        "value": "tetování"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "3a9d0b440de5631ca25393228d401e4c8b4921d3",
+    "edition": 3,
+    "date": 1654961919026,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "oranžový_koral"
+      },
+      {
+        "trait_type": "Head",
+        "value": "potapěčská maska + šnorchl"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "34593ebeef26248539bddd4147e526f52c5aea68",
+    "edition": 4,
+    "date": 1654961919572,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "mořská_tráva"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sailor"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "62a116832fa1bfa660a9a003933f3ee371ebc8f9",
+    "edition": 5,
+    "date": 1654961920113,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "oranžový_koral"
+      },
+      {
+        "trait_type": "Head",
+        "value": "piratská_čepice"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "e3af15c37ef75129d90d80bfdeaed50d2ea0020d",
+    "edition": 6,
+    "date": 1654961920662,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "mořská_tráva"
+      },
+      {
+        "trait_type": "Head",
+        "value": "oranžová_čapka"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "1049d4c183f7f2ff81e16068ef776335173b90df",
+    "edition": 7,
+    "date": 1654961921204,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "mořská_tráva"
+      },
+      {
+        "trait_type": "Head",
+        "value": "potapěčská maska + šnorchl"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "db1e8ef3087c24e4668b217a4c625b2c0c962863",
+    "edition": 8,
+    "date": 1654961921736,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "kámen_bubliny"
+      },
+      {
+        "trait_type": "Head",
+        "value": "oranžová_čapka"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "e52b0f209994c756de951f395a8cf6cda31e5d7b",
+    "edition": 9,
+    "date": 1654961922263,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "kámen_bubliny"
+      },
+      {
+        "trait_type": "Head",
+        "value": "čepice modrá"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "b33dbf57c3e10eade61b4461c6f2adaaf4d34539",
+    "edition": 10,
+    "date": 1654961922801,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "mořská_tráva"
+      },
+      {
+        "trait_type": "Head",
+        "value": "čepice modrá"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "64ee6f117243a469172028fb61e7b76e4ad1e0dc",
+    "edition": 11,
+    "date": 1654961923330,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "kámen_bubliny"
+      },
+      {
+        "trait_type": "Head",
+        "value": "potapěčská maska + šnorchl"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "08325942b04a6ae03a9bf6c688c27a7cdd454ce9",
+    "edition": 12,
+    "date": 1654961923858,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "kámen_bubliny"
+      },
+      {
+        "trait_type": "Head",
+        "value": "piratská_čepice"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "2bda9827e435f8cc18dfc06383d9bbe1cfde2702",
+    "edition": 13,
+    "date": 1654961924379,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "kámen_bubliny"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sailor"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "4e44937b75206ed5ca374189426e5ec6ba8c9f8c",
+    "edition": 14,
+    "date": 1654961924921,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "mořská_tráva"
+      },
+      {
+        "trait_type": "Head",
+        "value": "piratská_čepice"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "6e7c342d04884f399f075b60bca0708015ed7f4f",
+    "edition": 15,
+    "date": 1654961925445,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "kámen_bubliny"
+      },
+      {
+        "trait_type": "Head",
+        "value": "tetování"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "8befda5a1a051ec69e365c904414722cbdd1236f",
+    "edition": 16,
+    "date": 1654961925982,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "oranžový_koral"
+      },
+      {
+        "trait_type": "Head",
+        "value": "oranžová_čapka"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "2a9e1fb4aa4cbb6c3b16bf997754feb41ca28420",
+    "edition": 17,
+    "date": 1654961926501,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "kámen_bubliny"
+      },
+      {
+        "trait_type": "Head",
+        "value": "kapitánská čapka"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "11b04f22f46d2a2d7ca3cb1879a3d43a21614818",
+    "edition": 18,
+    "date": 1654961927029,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "oranžový_koral"
+      },
+      {
+        "trait_type": "Head",
+        "value": "kapitánská čapka"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "85e6a9ea7a1167e9c959d42e142f54bd63d56dde",
+    "edition": 19,
+    "date": 1654961927559,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "oranžový_koral"
+      },
+      {
+        "trait_type": "Head",
+        "value": "tetování"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "cffcf7f6adc066839bcd5c4a7e581cd04777cd5c",
+    "edition": 20,
+    "date": 1654961928091,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "hawksbill"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "mořská_tráva"
+      },
+      {
+        "trait_type": "Head",
+        "value": "kapitánská čapka"
+      },
+      {
+        "trait_type": "Item",
+        "value": "záchranný kruh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

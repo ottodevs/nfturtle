@@ -42,7 +42,9 @@
     "dependencies": {
         "@chainlink/contracts": "^0.4.1",
         "@openzeppelin/contracts": "^4.6.0",
-        "@openzeppelin/test-helpers": "^0.5.15"
+        "@openzeppelin/test-helpers": "^0.5.15",
+        "hardhat-ipfs": "^0.0.1",
+        "interface-blockstore": "^2.0.3"
     },
     "volta": {
         "node": "16.15.1"
@@ -65,7 +67,9 @@
     "mocha": {
         "require": "ts-node/register",
         "watch": true,
-        "extension": ["ts"],
+        "extension": [
+            "ts"
+        ],
         "timeout": 20000
     }
 }

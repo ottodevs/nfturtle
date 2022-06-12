@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #19",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "dna": "85e6a9ea7a1167e9c959d42e142f54bd63d56dde",
+  "edition": 19,
+  "date": 1654961927559,
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "hawksbill"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "oranžový_koral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "tetování"
+    },
+    {
+      "trait_type": "Item",
+      "value": "záchranný kruh"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
